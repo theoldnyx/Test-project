@@ -10,8 +10,11 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Clac op = new Clac(20);
-            Console.WriteLine(op.calculate());
+            Console.Write("Please write a number : ");
+            int userin = Console.Read();
+           
+            Clac op = new Clac(userin);
+            Console.WriteLine("The result ",op.calculate());
         }
     }
 }
