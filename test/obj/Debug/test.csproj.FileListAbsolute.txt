@@ -1,0 +1,5 @@
+C:\Documents and Settings\noob dev\My Documents\Visual Studio 2008\Projects\test\test\bin\Debug\test.exe
+C:\Documents and Settings\noob dev\My Documents\Visual Studio 2008\Projects\test\test\bin\Debug\test.pdb
+C:\Documents and Settings\noob dev\My Documents\Visual Studio 2008\Projects\test\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\noob dev\My Documents\Visual Studio 2008\Projects\test\test\obj\Debug\test.exe
+C:\Documents and Settings\noob dev\My Documents\Visual Studio 2008\Projects\test\test\obj\Debug\test.pdb
